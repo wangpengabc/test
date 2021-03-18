@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T14:48:22.041Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="Ikhx77eh3c3UF2MO22R7" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-18T15:11:10.919Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="eBo-_TllJU_L37KWa3MF" version="14.4.9" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1059" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="-n9zrWbUoktMPhDp2gM0-5" value="" style="orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;shape=link;dashed=1;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-2" target="-n9zrWbUoktMPhDp2gM0-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-n9zrWbUoktMPhDp2gM0-7" value="" style="edgeStyle=none;shape=link;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-2" target="-n9zrWbUoktMPhDp2gM0-6">
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-2" target="-n9zrWbUoktMPhDp2gM0-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-n9zrWbUoktMPhDp2gM0-2" value="Makefile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -25,11 +25,70 @@
         <mxCell id="-n9zrWbUoktMPhDp2gM0-9" value="" style="edgeStyle=none;shape=link;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-6" target="-n9zrWbUoktMPhDp2gM0-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-12" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-6" target="-n9zrWbUoktMPhDp2gM0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-14" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-6" target="-n9zrWbUoktMPhDp2gM0-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-16" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-6" target="-n9zrWbUoktMPhDp2gM0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-n9zrWbUoktMPhDp2gM0-6" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;droid sans mono&amp;#34; , monospace , monospace , &amp;#34;droid sans fallback&amp;#34; ; font-size: 14px ; line-height: 19px&quot;&gt;Makefile.base&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-n9zrWbUoktMPhDp2gM0-8" value="常用的选项，比如：&lt;br&gt;SOC BOARD 等" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="660" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-18" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=link;dashed=1;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-11" target="-n9zrWbUoktMPhDp2gM0-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-n9zrWbUoktMPhDp2gM0-18">
+          <mxGeometry x="-0.4327" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-11" value="Makefile.misc" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-22" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-13" target="-n9zrWbUoktMPhDp2gM0-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-24" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-13" target="-n9zrWbUoktMPhDp2gM0-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-28" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-13" target="-n9zrWbUoktMPhDp2gM0-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-13" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;droid sans mono&amp;#34; , monospace , monospace , &amp;#34;droid sans fallback&amp;#34; ; font-size: 14px ; line-height: 19px&quot;&gt;Makefile.conf&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-15" value="Makefile.rules" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-17" value="定义三个函数：&lt;br&gt;get_csrcs&amp;nbsp;get_asmsrcs&amp;nbsp;get_cxxsrcs&lt;br&gt;分别用来得到当前路径下的C，S，和cpp&lt;br&gt;&lt;br&gt;以及根据不同的操作系统，对shell常用指令进行定义" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-20" value="1. 定义GNU工具链路径&lt;br&gt;2. 引入makefile soc，定义ARCH，ABI相关，以及下载方式&lt;br&gt;3. 定义GDB相关的选项&lt;br&gt;4.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="950" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-36" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-21" target="-n9zrWbUoktMPhDp2gM0-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-21" value="Makefile.soc&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-23" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;droid sans mono&amp;#34; , monospace , monospace , &amp;#34;droid sans fallback&amp;#34; ; font-size: 14px ; line-height: 19px&quot;&gt;Makefile.rtos&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-27" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;droid sans mono&amp;#34; , monospace , monospace , &amp;#34;droid sans fallback&amp;#34; ; font-size: 14px ; line-height: 19px&quot;&gt;Makefile.files&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-31" value="1. 定义board对应的路径&lt;br&gt;2. 定义soc对应的路径&lt;br&gt;3. openocd的cfg文件，根据flash，xim等定义不同的ld文件&lt;br&gt;4. 宏定义当前SOC的ABI和ARCH" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="820" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-35" value="makefile.core" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
