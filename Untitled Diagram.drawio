@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T15:11:10.919Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="eBo-_TllJU_L37KWa3MF" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-18T15:11:40.373Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="d5y2vbZP3oSU2aruWxIm" version="14.4.9" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1059" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -60,6 +60,9 @@
         <mxCell id="-n9zrWbUoktMPhDp2gM0-28" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-13" target="-n9zrWbUoktMPhDp2gM0-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-38" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;shape=link;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-13" target="-n9zrWbUoktMPhDp2gM0-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-n9zrWbUoktMPhDp2gM0-13" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;droid sans mono&amp;#34; , monospace , monospace , &amp;#34;droid sans fallback&amp;#34; ; font-size: 14px ; line-height: 19px&quot;&gt;Makefile.conf&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="610" width="120" height="60" as="geometry" />
         </mxCell>
@@ -70,9 +73,12 @@
           <mxGeometry x="120" y="240" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-n9zrWbUoktMPhDp2gM0-20" value="1. 定义GNU工具链路径&lt;br&gt;2. 引入makefile soc，定义ARCH，ABI相关，以及下载方式&lt;br&gt;3. 定义GDB相关的选项&lt;br&gt;4.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="950" width="200" height="160" as="geometry" />
+          <mxGeometry x="850" y="790" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-n9zrWbUoktMPhDp2gM0-36" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-21" target="-n9zrWbUoktMPhDp2gM0-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-37" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.912;entryY=0.153;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-21" target="-n9zrWbUoktMPhDp2gM0-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-n9zrWbUoktMPhDp2gM0-21" value="Makefile.soc&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
