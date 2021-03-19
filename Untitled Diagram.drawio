@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T02:58:47.788Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="ynptz6bL3xRMajDYqD91" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-19T03:55:38.098Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="0RBotvfI-2S-e8PH-IgA" version="14.4.9" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1059" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-n9zrWbUoktMPhDp2gM0-3" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-1" target="-n9zrWbUoktMPhDp2gM0-2">
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-3" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeWidth=6;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-1" target="-n9zrWbUoktMPhDp2gM0-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-n9zrWbUoktMPhDp2gM0-1" value="Application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -13,7 +13,7 @@
         <mxCell id="-n9zrWbUoktMPhDp2gM0-5" value="" style="orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;shape=link;dashed=1;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-2" target="-n9zrWbUoktMPhDp2gM0-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-n9zrWbUoktMPhDp2gM0-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-2" target="-n9zrWbUoktMPhDp2gM0-6">
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-2" target="-n9zrWbUoktMPhDp2gM0-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-n9zrWbUoktMPhDp2gM0-2" value="Makefile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
         <mxCell id="-n9zrWbUoktMPhDp2gM0-12" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-6" target="-n9zrWbUoktMPhDp2gM0-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-n9zrWbUoktMPhDp2gM0-14" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-6" target="-n9zrWbUoktMPhDp2gM0-13">
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-14" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=8;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-6" target="-n9zrWbUoktMPhDp2gM0-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-n9zrWbUoktMPhDp2gM0-16" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-6" target="-n9zrWbUoktMPhDp2gM0-15">
@@ -63,6 +63,9 @@
         <mxCell id="-n9zrWbUoktMPhDp2gM0-38" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;shape=link;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-13" target="-n9zrWbUoktMPhDp2gM0-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-46" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=8;" edge="1" parent="1" source="-n9zrWbUoktMPhDp2gM0-13" target="-n9zrWbUoktMPhDp2gM0-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-n9zrWbUoktMPhDp2gM0-13" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;droid sans mono&amp;#34; , monospace , monospace , &amp;#34;droid sans fallback&amp;#34; ; font-size: 14px ; line-height: 19px&quot;&gt;Makefile.conf&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="610" width="120" height="60" as="geometry" />
         </mxCell>
@@ -94,7 +97,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-n9zrWbUoktMPhDp2gM0-27" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;droid sans mono&amp;#34; , monospace , monospace , &amp;#34;droid sans fallback&amp;#34; ; font-size: 14px ; line-height: 19px&quot;&gt;Makefile.files&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-n9zrWbUoktMPhDp2gM0-31" value="1. 定义board对应的路径&lt;br&gt;2. 定义soc对应的路径&lt;br&gt;3. openocd的cfg文件，根据flash，xim等定义不同的ld文件&lt;br&gt;4. 宏定义当前SOC的ABI和ARCH" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="820" width="200" height="160" as="geometry" />
@@ -107,6 +110,9 @@
         </mxCell>
         <mxCell id="-n9zrWbUoktMPhDp2gM0-41" value="RTOS相关的头文件&lt;br&gt;编译选项等" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="1050" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-n9zrWbUoktMPhDp2gM0-45" value="Makefile.rule" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
